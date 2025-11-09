@@ -1,0 +1,22 @@
+{
+  "info_generale": {
+    "intitule_du_poste": "developpeur backend",
+    "nom_de_l_entreprise": "techcorp",
+    "lieu": "antananarivo",
+    "type_de_contrat": "cdi",
+    "date_de_publication": "2025-07-08"
+  },
+  "competences_requises": {
+    "techniques": ["python", "fastapi", "mongodb"],
+    "soft_skills": ["autonomie", "esprit d'analyse"]
+  },
+  "experience_requise": {
+    "nombre_d_annees_experience": 2,
+    "domaine_specifique": "developpement web"
+  },
+  "formation_demande": {
+    "niveau": "bac+3",
+    "specialite": "informatique"
+  },
+  "mission": "developper des api, gerer la base de donnees, assurer la documentation technique"
+}
