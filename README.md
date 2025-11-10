@@ -1,8 +1,8 @@
 # TalentMatch
 
 1.  **Créer un environnement virtuel Django :**
-  ```
-    python -m venv env
+    ```
+      -m venv env
     ```
 2.  **Activer le environnement virtuel Django :**
     ```
