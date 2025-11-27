@@ -1,10 +1,10 @@
 # TalentMatch
 
-1.  **Créer un environnement virtuel Django :**
+1.  **Créer un environnement virtuel FastApi :**
     ```
       -m venv env
     ```
-2.  **Activer le environnement virtuel Django :**
+2.  **Activer le environnement virtuel :**
     ```
     env\Scripts\activate
     ```
